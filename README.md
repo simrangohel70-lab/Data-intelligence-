@@ -12,8 +12,8 @@
 
 📺 **Excel Dashboard & Data Analysis Tutorial**
 
-[▶️ Watch Excel Dashboard Tutorials on YouTube](https://www.youtube.com/results?search_query=Excel+Data+Analysis+Dashboard+Pivot+Tables+Power+Query+KPI+Cards)
-
+[▶️ Watch the video here]
+https://drive.google.com/file/d/1UxSqiM1vGSvKH7yrZYgR6KBjhnuHoDOX/view?usp=sharing
 
 ---
 
